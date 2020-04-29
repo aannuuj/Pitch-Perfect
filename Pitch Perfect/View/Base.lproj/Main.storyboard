@@ -58,7 +58,7 @@
                         <outlet property="instructionLabel" destination="1Rd-29-8su" id="9Om-x9-IMO"/>
                         <outlet property="recordingButton" destination="HSw-hU-mUF" id="9hF-GQ-nP1"/>
                         <outlet property="stopRecording" destination="fSM-Rc-ilP" id="YsK-Au-qo6"/>
-                        <segue destination="BEd-sZ-DOM" kind="show" identifier="goToSecond" id="VaF-I3-9uh"/>
+                        <segue destination="BEd-sZ-DOM" kind="show" identifier="goToSecondVC" id="oWy-AT-sdW"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
