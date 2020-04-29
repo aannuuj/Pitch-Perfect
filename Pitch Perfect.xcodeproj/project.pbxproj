@@ -149,7 +149,6 @@
 			children = (
 				BE77C79B24575C56003818B2 /* RecordSoundsViewController.swift */,
 				BE77C7CA24578CC5003818B2 /* PlaySoundsViewController.swift */,
-				BE4A073B2459604A00E87FAD /* PlaySoundsViewController+Audio.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -157,6 +156,7 @@
 		BE77C7D024585D5F003818B2 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				BE4A073B2459604A00E87FAD /* PlaySoundsViewController+Audio.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
