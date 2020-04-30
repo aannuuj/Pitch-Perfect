@@ -1,2 +1,2 @@
 # Pitch-Perfect
-First project form Udacity Nanodegree Course
+First project from Udacity Nanodegree Course
